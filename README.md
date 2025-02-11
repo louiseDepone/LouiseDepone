@@ -1,7 +1,7 @@
 # Hi, I'm Ryan Louise Depone Epis! 👋
 
 ### 🚀 About Me
-I'm a passionate **Full-Stack Developer** with experience in building scalable web applications and APIs. I specialize in **React, NestJS, .NET, and Tailwind CSS** and have a strong background in backend development using **Node.js, C#, and PostgreSQL**. I love solving complex problems, optimizing performance, and creating intuitive user experiences.
+I'm a passionate **Full-Stack Developer** with experience in building scalable web applications and APIs. I specialize in **React, NestJS, .NET, and Tailwind CSS** and have a strong background in backend development using **Node.js, C#, and PostgreSQL**. I love solving problems, and creating intuitive user experiences.
 
 ### 🛠️ Tech Stack
 - **Languages:**  
