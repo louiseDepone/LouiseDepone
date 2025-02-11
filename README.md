@@ -1,7 +1,5 @@
 # Hi, I'm Ryan Louise Depone Epis! 👋
 
-# Hi, I'm Ryan Louise Depone Epis! 👋
-
 ### 🚀 About Me
 I'm a **4th-year Computer Science student** passionate about building web applications and backend systems. Throughout my development journey, I have been working with **React, NestJS, .NET, and Tailwind CSS**, as well as backend technologies like **Node.js, C#, and PostgreSQL**. I enjoy solving problems, developing user interface, improving user experience and somtimes design user interface.
 
